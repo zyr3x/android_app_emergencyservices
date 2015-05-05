@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ripple xmlns:android="http://schemas.android.com/apk/res/android"
-    android:color="#ffffff">
-    <item android:id="@android:id/mask">
-        <shape android:shape="oval">
-            <solid android:color="#ffffff" />
-        </shape>
-    </item>
-</ripple><!-- From: file:/home/zyr3x/AndroidStudioProjects/Emergencyservices/app/src/main/res/drawable-v21/round_button.xml -->

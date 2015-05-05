@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android"
-    android:shape="oval">
-    <solid android:color="#9F2200"/>
-    <stroke android:width="2dp" android:color="#992200" />
-</shape><!-- From: file:/home/zyr3x/AndroidStudioProjects/Emergencyservices/app/src/main/res/drawable/round_button.xml -->
