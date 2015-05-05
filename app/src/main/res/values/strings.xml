@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Экстренная служба</string>
+    <string name="title">Единая служба \nэкстренного реагирования</string>
+    <string name="tel">112</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emergency services</string>
+
+    <string name="title">Единая служба \nэкстренного реагирования</string>
+    <string name="tel">112</string>
+    <string name="action_settings">Settings</string>
+</resources>
