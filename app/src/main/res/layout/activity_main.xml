@@ -7,11 +7,12 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imageView"
+        android:id="@+id/imageWoman"
         android:src="@drawable/woman"
         android:layout_alignLeft="@+id/imageButton"
         android:layout_alignStart="@+id/imageButton"
-        android:layout_below="@+id/textView2" />
+        android:layout_below="@+id/textViewNumber"
+  />
 
     <TextView android:text="@string/title"
         android:layout_width="wrap_content"
@@ -20,7 +21,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="38dp"
         android:gravity="center_horizontal"
-        android:id="@+id/textView"
+        android:id="@+id/textViewTitle"
         android:textColor="@color/text_color"
         android:textSize="@dimen/title_text_sise" />
 
@@ -32,10 +33,10 @@
         android:background="@drawable/fab_red"
         android:layout_centerHorizontal="true"
        
-        android:layout_below="@+id/textView2"
+        android:layout_below="@+id/textViewNumber"
     >
 
-        <ImageButton android:id="@+id/floating_end_call_action_button"
+        <ImageButton android:id="@+id/callButton"
             android:layout_width="@dimen/button_size"
             android:layout_height="@dimen/button_size"
 	    android:onClick="onClick"
@@ -51,9 +52,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
-        android:id="@+id/textView2"
+        android:id="@+id/textViewNumber"
         android:textSize="@dimen/primary_text_sise"
-        android:layout_below="@+id/textView"
+        android:layout_below="@+id/textViewTitle"
         android:layout_centerHorizontal="true"
         android:textColor="@color/text_color"
         android:typeface="serif"
